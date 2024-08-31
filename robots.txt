@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ephonfal.github.io/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/app/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/assets/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/css/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/includes/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/item/sitemap.html.gz
+Sitemap: https://ephonfal.github.io/src/sitemap.html.gz
